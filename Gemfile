@@ -13,6 +13,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'cancancan'
 gem 'devise'
 gem 'delayed_job_active_record'
+gem 'nokogiri', '~> 1.6', '>= 1.6.7.2'
 
 group :development, :test do
   gem 'factory_girl'

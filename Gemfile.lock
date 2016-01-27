@@ -235,6 +235,7 @@ DEPENDENCIES
   jbuilder (~> 2.0)
   jquery-rails
   letter_opener
+  nokogiri (~> 1.6, >= 1.6.7.2)
   pg (~> 0.15)
   pry-rails
   rails (= 4.2.5.1)
